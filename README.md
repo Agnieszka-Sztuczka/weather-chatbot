@@ -3,7 +3,7 @@
 Inteligentny chatbot webowy, który analizuje pogodę i rekomenduje odpowiedni strój.
 
 ## Demo
-[Link do projektu na GitHub Pages](https://TWOJA-NAZWA.github.io/weather-chatbot/)
+[Link do projektu na GitHub Pages](https://agnieszka-sztuczka.github.io/weather-chatbot/)
 
 ## Screenshoty
 > *(dodaj screenshoty po uruchomieniu projektu)*
