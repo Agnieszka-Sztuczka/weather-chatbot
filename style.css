@@ -14,7 +14,7 @@
     --bg:             #0f0f1a;
     --glass:          rgba(255, 255, 255, 0.07);
     --glass-border:   rgba(255, 255, 255, 0.14);
-    --text-primary:   #ffffff;
+    --text-primary:   #000000;
     --text-secondary: rgba(255, 255, 255, 0.55);
     --user-msg:       linear-gradient(135deg, #6C63FF, #8B80FF);
     --bot-msg:        rgba(255, 255, 255, 0.07);
