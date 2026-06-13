@@ -6,7 +6,8 @@ Inteligentny chatbot webowy, który analizuje pogodę i rekomenduje odpowiedni s
 [Link do projektu na GitHub Pages](https://agnieszka-sztuczka.github.io/weather-chatbot/)
 
 ## Screenshoty
-> *(dodaj screenshoty po uruchomieniu projektu)*
+> *bot.png*
+> *background.jpg*
 
 ## Technologie
 - HTML5 (semantyczny, dostępny)
