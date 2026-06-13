@@ -7,6 +7,7 @@ Inteligentny chatbot webowy, który analizuje pogodę i rekomenduje odpowiedni s
 
 ## Screenshoty
 > *bot.png*
+>
 > *background.jpg*
 
 ## Technologie
