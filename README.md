@@ -6,9 +6,7 @@ Inteligentny chatbot webowy, który analizuje pogodę i rekomenduje odpowiedni s
 [Link do projektu na GitHub Pages](https://agnieszka-sztuczka.github.io/weather-chatbot/)
 
 ## Screenshoty
-> *bot.png*
->
-> *background.jpg*
+> *Zrzuty ekranu dostępne po uruchomieniu aplikacji*
 
 ## Technologie
 - HTML5 (semantyczny, dostępny)
@@ -17,9 +15,27 @@ Inteligentny chatbot webowy, który analizuje pogodę i rekomenduje odpowiedni s
 - OpenWeatherMap API
 - LocalStorage (historia czatu)
 - Fetch API
+- PWA (Progressive Web App — manifest.json)
+
+## Struktura projektu
+
+```
+weather-chatbot/
+│
+├── index.html            # struktura strony
+├── style.css             # wygląd i animacje
+├── script.js             # logika i API
+├── manifest.json         # konfiguracja PWA
+│
+├── assets/
+│   ├── bot.png           # ikona chatbota
+│   └── background.jpg    # tło aplikacji
+│
+└── README.md             # dokumentacja
+```
 
 ## Uruchomienie lokalne
-1. Pobierz repozytorium: `git clone https://github.com/TWOJA-NAZWA/weather-chatbot`
+1. Pobierz repozytorium: `git clone https://github.com/agnieszka-sztuczka/weather-chatbot`
 2. Otwórz folder: `cd weather-chatbot`
 3. Otwórz plik `index.html` w przeglądarce
 
@@ -29,4 +45,9 @@ Inteligentny chatbot webowy, który analizuje pogodę i rekomenduje odpowiedni s
 3. W pliku `script.js` znajdź: `API_KEY: "TWOJ_KLUCZ_API"`
 4. Zastąp `TWOJ_KLUCZ_API` swoim kluczem
 
-## Architektura
+## Funkcje
+-  Pobieranie pogody w czasie rzeczywistym
+-  Rekomendacje stroju na podstawie temperatury
+-  Historia rozmów (LocalStorage)
+-  Responsywny design (mobile-friendly)
+-  Instalacja jako PWA
